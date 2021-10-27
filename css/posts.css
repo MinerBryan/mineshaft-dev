@@ -5,16 +5,10 @@
     width: 180px;
     position:fixed;
     overflow:auto;
-}
-.prog-list {
-    float: left;
     margin: 15px;
-    padding: 15px;
-    list-style: none;
+    padding: 5px;
 }
-.prog-list li a {
-    display:block;
-    padding-top: 15px;
+.program a {
     font-family: 'Source Code Pro';
     font-size: 30px;
     text-align:center;
