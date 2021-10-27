@@ -2,7 +2,7 @@ title:  The Mineshaft
 
 permalink: /:title
 
-baseurl: /mineshaft
+baseurl: /mineshaft-dev
 
 sass:
   style: compressed
